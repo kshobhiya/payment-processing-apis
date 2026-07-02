@@ -1,5 +1,11 @@
 ## Database Setup
 
+The SQL dump is included in the project:
+
+```text
+database/payment_processing.sql
+```
+
 Create a MySQL database:
 
 ```sql
